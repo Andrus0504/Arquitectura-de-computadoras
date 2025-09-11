@@ -1,0 +1,19 @@
+# Compile of and_module.v was successful.
+vsim -gui work.module_and
+# vsim -gui work.module_and 
+# Start time: 10:09:58 on Sep 10,2025
+# Loading work.module_and
+add wave -position insertpoint  \
+sim:/module_and/a \
+sim:/module_and/b \
+sim:/module_and/s
+force -freeze sim:/module_and/a 0 0
+force -freeze sim:/module_and/b 0 0
+run
+force -freeze sim:/module_and/b St1 0
+run
+force -freeze sim:/module_and/b St0 0
+force -freeze sim:/module_and/a St1 0
+run
+force -freeze sim:/module_and/b St1 0
+run
