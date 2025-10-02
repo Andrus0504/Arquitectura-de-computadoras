@@ -1,0 +1,31 @@
+{C:/Arquitectura de computadoras/actividad_4/SRAM_S} {0 {vlog -work practica -stats=none {C:/Arquitectura de computadoras/actividad_4/SRAM_S}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+** Error: (vlog-7) Failed to open ini file "C:/intelFPGA/18.1/modelsim_ase/win32aloem/../modelsim.ini" in read mode.
+Invalid argument. (errno = EINVAL)
+Verilog Compiler exiting
+
+} {3.0 4.0} {}} {C:/Arquitectura de computadoras/actividad_4/Rom} {0 {vlog -work practica -stats=none {C:/Arquitectura de computadoras/actividad_4/Rom}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+** Error: (vlog-7) Failed to open ini file "C:/intelFPGA/18.1/modelsim_ase/win32aloem/../modelsim.ini" in read mode.
+Invalid argument. (errno = EINVAL)
+Verilog Compiler exiting
+
+} {3.0 4.0} {}} {C:/Arquitectura de computadoras/actividad_4/SRAM_A} {0 {vlog -work practica -stats=none {C:/Arquitectura de computadoras/actividad_4/SRAM_A}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+** Error: (vlog-7) Failed to open ini file "C:/intelFPGA/18.1/modelsim_ase/win32aloem/../modelsim.ini" in read mode.
+Invalid argument. (errno = EINVAL)
+Verilog Compiler exiting
+
+} {3.0 4.0} {}} {C:/Arquitectura de computadoras/actividad_4/Rom2.v} {0 {vlog -work practica -stats=none {C:/Arquitectura de computadoras/actividad_4/Rom2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+** Error: (vlog-7) Failed to open ini file "C:/intelFPGA/18.1/modelsim_ase/win32aloem/../modelsim.ini" in read mode.
+Invalid argument. (errno = EINVAL)
+Verilog Compiler exiting
+
+} {3.0 4.0} {}} {C:/Arquitectura de computadoras/actividad_4/SRAM_A32} {0 {vlog -work practica -stats=none {C:/Arquitectura de computadoras/actividad_4/SRAM_A32}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+** Error: (vlog-7) Failed to open ini file "C:/intelFPGA/18.1/modelsim_ase/win32aloem/../modelsim.ini" in read mode.
+Invalid argument. (errno = EINVAL)
+Verilog Compiler exiting
+
+} {3.0 4.0} {}}

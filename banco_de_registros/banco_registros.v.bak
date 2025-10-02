@@ -1,0 +1,27 @@
+module bancoRegistro(
+input [4:0]AR_1,
+input [4:0]AR_2,
+input [4:0]AW,
+input [31:0]DATA_IN,
+input WRITEREG,  //permite escribir 
+output reg [31:0]DR_1,
+output reg [31:0]DR_2);
+
+reg [31:0] BANCO [0:31];
+
+initial
+	begin
+	$readmemb ("Datos.txt",BANCO);
+	end
+
+always @*
+	begin
+	DR_1 = BANCO[AR_1];
+	DR_2 = BANCO[AR_2];
+		if(WRITEREG)
+		begin
+		BANCO[AW] = DATA_IN;
+		end
+	end
+
+endmodule

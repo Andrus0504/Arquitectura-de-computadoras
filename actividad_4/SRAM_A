@@ -1,0 +1,30 @@
+`timescale 1ns/1ns
+module SRAM_A(
+	input [7:0] Dir,
+	output reg[7:0] Dato_s);
+
+reg [7:0] SRAM_A [0:11];
+
+//inicializacion de los datos
+initial
+	begin
+		SRAM_A[0] = 8'd90;
+		SRAM_A[1] = 8'd80;
+		SRAM_A[2] = 8'd40;
+		SRAM_A[3] = 8'd60;
+		SRAM_A[4] = 8'd50;
+		SRAM_A[5] = 8'd40;
+		SRAM_A[6] = 8'd30;
+		SRAM_A[7] = 8'd20;
+		SRAM_A[8] = 8'd10;
+		SRAM_A[9] = 8'd100;
+		SRAM_A[10] = 8'd101;
+		SRAM_A[11] = 8'd102;
+	end
+
+//lectura de la memoria
+always @*
+	begin
+		Dato_s= SRAM_A[0];
+	end
+endmodule 

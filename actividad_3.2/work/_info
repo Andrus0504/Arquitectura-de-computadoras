@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Arquitectura de computadoras/actividad_3
+vALU
+!s110 1759192486
+!i10b 1
+!s100 AKF?HTVDBNjONoDV1?WoH2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I_`^Y7[8[Oc@dVUV6hiKQ02
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Arquitectura de computadoras/actividad_3.2
+w1759190951
+8C:/Arquitectura de computadoras/actividad_3.2/alu
+FC:/Arquitectura de computadoras/actividad_3.2/alu
+!i122 2
+L0 3 28
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1759192486.000000
+!s107 C:/Arquitectura de computadoras/actividad_3.2/alu|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Arquitectura de computadoras/actividad_3.2/alu|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@l@u
+vALU_TB
+!s110 1759192487
+!i10b 1
+!s100 TU`n2eOJojA81]4Wj1n<k3
+R0
+INENaEEF4_If4^Wd]]aWoO2
+R1
+R2
+w1759192194
+8C:/Arquitectura de computadoras/actividad_3.2/alu_tb
+FC:/Arquitectura de computadoras/actividad_3.2/alu_tb
+!i122 3
+L0 4 29
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Arquitectura de computadoras/actividad_3.2/alu_tb|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Arquitectura de computadoras/actividad_3.2/alu_tb|
+!i113 1
+R5
+R6
+n@a@l@u_@t@b

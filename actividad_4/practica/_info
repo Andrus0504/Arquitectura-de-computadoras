@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vROM
+!s110 1758127710
+!i10b 1
+!s100 CIMBmHCGZ<TfVe]VH8dW61
+IbDFWCE@NL4Ib?RW4V3an10
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Arquitectura de computadoras/actividad_4
+w1758127553
+Z2 8C:\Arquitectura de computadoras\actividad_4\Rom2.v
+Z3 FC:\Arquitectura de computadoras\actividad_4\Rom2.v
+L0 2
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1758127710.000000
+Z5 !s107 C:\Arquitectura de computadoras\actividad_4\Rom2.v|
+Z6 !s90 -##implicit##push_minusfile_path##|C:/intelFPGA/18.1/vlog.opt|-##implicit##pop_minusfile_path##|-reportprogress|300|-work|practica|-stats=none|C:\Arquitectura de computadoras\actividad_4\Rom2.v|
+!i113 1
+Z7 o-work practica
+Z8 tCvgOpt 0
+n@r@o@m
+vROM1
+!s110 1758126548
+!i10b 1
+!s100 >9;D1M^]NW>eJ4hhRMDMl2
+ITCIAjD4POS=WC2o@Oh^:G1
+R0
+R1
+w1758126537
+R2
+R3
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1758126548.000000
+R5
+R6
+!i113 1
+R7
+R8
+n@r@o@m1
+vSRAM_A
+!s110 1758127681
+!i10b 1
+!s100 4z8a_[VWhK<_WW9eF@W6L2
+IGh89NVimhe9efCN5<4<;I1
+R0
+R1
+w1758127550
+8C:\Arquitectura de computadoras\actividad_4\SRAM_A
+FC:\Arquitectura de computadoras\actividad_4\SRAM_A
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1758127681.000000
+!s107 C:\Arquitectura de computadoras\actividad_4\SRAM_A|
+!s90 -##implicit##push_minusfile_path##|C:/intelFPGA/18.1/vlog.opt|-##implicit##pop_minusfile_path##|-reportprogress|300|-work|practica|-stats=none|C:\Arquitectura de computadoras\actividad_4\SRAM_A|
+!i113 1
+R7
+R8
+n@s@r@a@m_@a
+vSRAM_A32
+!s110 1758128200
+!i10b 1
+!s100 hDoRBz>W9<PV4AYB`n0Pa2
+IWMlUQT[Q_8g0z2EWWDJTF0
+R0
+R1
+w1758127754
+8C:\Arquitectura de computadoras\actividad_4\SRAM_A32
+FC:\Arquitectura de computadoras\actividad_4\SRAM_A32
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1758128200.000000
+!s107 C:\Arquitectura de computadoras\actividad_4\SRAM_A32|
+!s90 -##implicit##push_minusfile_path##|C:/intelFPGA/18.1/vlog.opt|-##implicit##pop_minusfile_path##|-reportprogress|300|-work|practica|-stats=none|C:\Arquitectura de computadoras\actividad_4\SRAM_A32|
+!i113 1
+R7
+R8
+n@s@r@a@m_@a32
+vSRAM_S
+!s110 1758127686
+!i10b 1
+!s100 Mn>]6ZfPi5h^fAaWVkXEN2
+IJd0BR8IKfdGo@@^@DZMh11
+R0
+R1
+w1758127673
+8C:\Arquitectura de computadoras\actividad_4\SRAM_S
+FC:\Arquitectura de computadoras\actividad_4\SRAM_S
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1758127685.000000
+!s107 C:\Arquitectura de computadoras\actividad_4\SRAM_S|
+!s90 -##implicit##push_minusfile_path##|C:/intelFPGA/18.1/vlog.opt|-##implicit##pop_minusfile_path##|-reportprogress|300|-work|practica|-stats=none|C:\Arquitectura de computadoras\actividad_4\SRAM_S|
+!i113 1
+R7
+R8
+n@s@r@a@m_@s

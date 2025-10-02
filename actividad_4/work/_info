@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Arquitectura de computadoras/actividad_3
+vRAM_A
+Z0 !s110 1759162986
+!i10b 1
+!s100 l5V^6cELA^>1>YZ0M>h2m1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I=F1cREBM4c9TgXjI1n7LW1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Arquitectura de computadoras/actividad_4
+w1758502602
+8C:/Arquitectura de computadoras/actividad_4/Ram_A.v
+FC:/Arquitectura de computadoras/actividad_4/Ram_A.v
+!i122 20
+L0 1 37
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1759162985.000000
+!s107 C:/Arquitectura de computadoras/actividad_4/Ram_A.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Arquitectura de computadoras/actividad_4/Ram_A.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@r@a@m_@a
+vRAM_S
+R0
+!i10b 1
+!s100 cTVh__NLmAj;JKkakca]D0
+R1
+IR;Zb60:N2QFAEb81z`HO`3
+R2
+R3
+w1758503601
+8C:/Arquitectura de computadoras/actividad_4/Ram_S.v
+FC:/Arquitectura de computadoras/actividad_4/Ram_S.v
+!i122 21
+L0 1 38
+R4
+r1
+!s85 0
+31
+!s108 1759162986.000000
+!s107 C:/Arquitectura de computadoras/actividad_4/Ram_S.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Arquitectura de computadoras/actividad_4/Ram_S.v|
+!i113 1
+R6
+R7
+n@r@a@m_@s
+vROM
+!s110 1759162985
+!i10b 1
+!s100 k`11E<:R@^cNS]9>f^kAV1
+R1
+IbBdQH>JH`QYC:CghAIBGo2
+R2
+R3
+w1759162954
+8C:/Arquitectura de computadoras/actividad_4/Rom2.v
+FC:/Arquitectura de computadoras/actividad_4/Rom2.v
+!i122 19
+L0 2 29
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Arquitectura de computadoras/actividad_4/Rom2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Arquitectura de computadoras/actividad_4/Rom2.v|
+!i113 1
+R6
+R7
+n@r@o@m

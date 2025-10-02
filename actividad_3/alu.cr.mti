@@ -1,0 +1,15 @@
+{C:/Arquitectura de computadoras/actividad_3/alu.v} {1 {vlog -work work -stats=none {C:/Arquitectura de computadoras/actividad_3/alu.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Arquitectura de computadoras/actividad_3/alu_tb.v} {1 {vlog -work work -stats=none {C:/Arquitectura de computadoras/actividad_3/alu_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_TB
+
+Top level modules:
+	ALU_TB
+
+} {} {}}

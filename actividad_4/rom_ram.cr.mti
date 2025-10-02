@@ -1,0 +1,25 @@
+{C:/Arquitectura de computadoras/actividad_4/Ram_S.v} {2 {vlog -work work -stats=none {C:/Arquitectura de computadoras/actividad_4/Ram_S.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RAM_S
+** Warning: C:/Arquitectura de computadoras/actividad_4/Ram_S.v(8): (vlog-2417) Multiple packed dimensions are not allowed.
+
+Top level modules:
+	RAM_S
+
+} {} {}} {C:/Arquitectura de computadoras/actividad_4/Rom2.v} {2 {vlog -work work -stats=none {C:/Arquitectura de computadoras/actividad_4/Rom2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ROM
+** Warning: C:/Arquitectura de computadoras/actividad_4/Rom2.v(6): (vlog-2417) Multiple packed dimensions are not allowed.
+
+Top level modules:
+	ROM
+
+} {} {}} {C:/Arquitectura de computadoras/actividad_4/Ram_A.v} {2 {vlog -work work -stats=none {C:/Arquitectura de computadoras/actividad_4/Ram_A.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RAM_A
+** Warning: C:/Arquitectura de computadoras/actividad_4/Ram_A.v(7): (vlog-2417) Multiple packed dimensions are not allowed.
+
+Top level modules:
+	RAM_A
+
+} {} {}}

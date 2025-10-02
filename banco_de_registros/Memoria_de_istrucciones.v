@@ -1,0 +1,11 @@
+module MemInst(
+	input [7:0]Dir,
+	output reg[19:0]Inst
+	);
+reg [0:11][7:0]mem;
+
+initial
+begin
+	
+end
+endmodule

@@ -1,0 +1,203 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Arquitectura de computadoras/taco
+vADD
+!s110 1759160193
+!i10b 1
+!s100 `;5cXn@QA`FDejFec[Fzf0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I0[nC]4PHL2<5FQCU3M_<Z1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Arquitectura de computadoras/banco_de_registros
+w1758731557
+Z3 8C:/Arquitectura de computadoras/banco_de_registros/alu.v
+Z4 FC:/Arquitectura de computadoras/banco_de_registros/alu.v
+!i122 9
+L0 3 8
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1759160193.000000
+Z6 !s107 C:/Arquitectura de computadoras/banco_de_registros/alu.v|
+Z7 !s90 -reportprogress|300|-work|work|-stats=none|C:/Arquitectura de computadoras/banco_de_registros/alu.v|
+!i113 1
+Z8 o-work work
+Z9 tCvgOpt 0
+n@a@d@d
+vALU
+!s110 1759336892
+!i10b 1
+!s100 aGCah3ahhQiA5gJ`8eDN`1
+R0
+I4FEb:7C>c2EkVF<RU0V[22
+R1
+R2
+w1759336884
+R3
+R4
+!i122 71
+L0 3 35
+R5
+r1
+!s85 0
+31
+!s108 1759336891.000000
+R6
+R7
+!i113 1
+R8
+R9
+n@a@l@u
+vbancoRegistro
+!s110 1759335487
+!i10b 1
+!s100 aZi26QEFaTZ`ej>gdlDTF3
+R0
+IgD1Y1d^0HcJiMRCP^>WS?2
+R1
+R2
+w1758731951
+8C:/Arquitectura de computadoras/banco_de_registros/banco_registros.v
+FC:/Arquitectura de computadoras/banco_de_registros/banco_registros.v
+!i122 66
+L0 1 26
+R5
+r1
+!s85 0
+31
+!s108 1759335487.000000
+!s107 C:/Arquitectura de computadoras/banco_de_registros/banco_registros.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Arquitectura de computadoras/banco_de_registros/banco_registros.v|
+!i113 1
+R8
+R9
+nbanco@registro
+vBurrito
+Z10 !s110 1759335488
+!i10b 1
+!s100 BiRBLZjMQ4UNg3Zbz;R9<3
+R0
+IBAb=]A07aDY:U_ZB16dca1
+R1
+R2
+w1759334232
+8C:/Arquitectura de computadoras/banco_de_registros/burrito.v
+FC:/Arquitectura de computadoras/banco_de_registros/burrito.v
+!i122 67
+L0 1 24
+R5
+r1
+!s85 0
+31
+Z11 !s108 1759335488.000000
+!s107 C:/Arquitectura de computadoras/banco_de_registros/burrito.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Arquitectura de computadoras/banco_de_registros/burrito.v|
+!i113 1
+R8
+R9
+n@burrito
+vBurrito_tb
+!s110 1759336931
+!i10b 1
+!s100 N1gCEe@IX:eg`NMaaN0Z;3
+R0
+I^Sg44Tf<EckD4ZoUF2[Kl3
+R1
+R2
+w1759336924
+Z12 8C:/Arquitectura de computadoras/banco_de_registros/burrito_tb.v
+Z13 FC:/Arquitectura de computadoras/banco_de_registros/burrito_tb.v
+!i122 72
+L0 3 26
+R5
+r1
+!s85 0
+31
+!s108 1759336931.000000
+Z14 !s107 C:/Arquitectura de computadoras/banco_de_registros/burrito_tb.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|C:/Arquitectura de computadoras/banco_de_registros/burrito_tb.v|
+!i113 1
+R8
+R9
+n@burrito_tb
+vMemInst
+!s110 1759336652
+!i10b 1
+!s100 ^kDcTJ5kQP0MXFE1S7^KD1
+R0
+IDP7m`iS_i:MQ:HU:fk7_H2
+R1
+R2
+w1759336435
+Z16 8C:/Arquitectura de computadoras/banco_de_registros/Memoria_de_istrucciones.v
+Z17 FC:/Arquitectura de computadoras/banco_de_registros/Memoria_de_istrucciones.v
+!i122 70
+L0 1 11
+R5
+r1
+!s85 0
+31
+!s108 1759336652.000000
+Z18 !s107 C:/Arquitectura de computadoras/banco_de_registros/Memoria_de_istrucciones.v|
+Z19 !s90 -reportprogress|300|-work|work|-stats=none|C:/Arquitectura de computadoras/banco_de_registros/Memoria_de_istrucciones.v|
+!i113 1
+R8
+R9
+n@mem@inst
+vMI
+R10
+!i10b 1
+!s100 oE^76L7dDQIW?_[aPjJI[2
+R0
+IP187X7@F<_c8Nf8?YU0@d3
+R1
+R2
+w1759334099
+R16
+R17
+!i122 68
+L0 1 6
+R5
+r1
+!s85 0
+31
+R11
+R18
+R19
+!i113 1
+R8
+R9
+n@m@i
+vtb_Burrito
+!s110 1759334495
+!i10b 1
+!s100 ZF<cbYgP:0HMUl;llT?lH2
+R0
+Ih9l_[R5FIG?VX5N0:@??`2
+R1
+R2
+w1759286422
+R12
+R13
+!i122 61
+L0 3 44
+R5
+r1
+!s85 0
+31
+!s108 1759334495.000000
+R14
+R15
+!i113 1
+R8
+R9
+ntb_@burrito

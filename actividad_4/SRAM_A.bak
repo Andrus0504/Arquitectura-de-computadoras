@@ -1,0 +1,3 @@
+module SRAM_A(
+input a,
+output s);

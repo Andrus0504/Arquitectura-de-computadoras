@@ -1,0 +1,6 @@
+module PC(
+	input [7:0]Pc_in,
+	input Clk,
+	output [7:0]Pc_out);
+
+endmodule

@@ -1,0 +1,30 @@
+`timescale 1ns/1ns
+module SRAM_A32(
+	input [7:0] Dir,
+	output reg[7:0] Dato_s);
+
+reg [7:0] SRAM_A32 [0:11];
+
+//inicializacion de los datos
+initial
+	begin
+		SRAM_A32[0] = 8'd90;
+		SRAM_A32[1] = 8'd80;
+		SRAM_A32[2] = 8'd40;
+		SRAM_A32[3] = 8'd60;
+		SRAM_A32[4] = 8'd50;
+		SRAM_A32[5] = 8'd40;
+		SRAM_A32[6] = 8'd30;
+		SRAM_A32[7] = 8'd20;
+		SRAM_A32[8] = 8'd10;
+		SRAM_A32[9] = 8'd100;
+		SRAM_A32[10] = 8'd101;
+		SRAM_A32[11] = 8'd102;
+	end
+
+//lectura de la memoria
+always @*
+	begin
+		Dato_s= SRAM_A32[0];
+	end
+endmodule 

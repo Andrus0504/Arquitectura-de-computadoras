@@ -1,0 +1,5 @@
+# Compile of Rom2.v was successful with warnings.
+# Compile of Ram_A.v was successful with warnings.
+# Compile of Ram_S.v was successful with warnings.
+# 3 compiles, 0 failed with no errors.
+project open {C:/Arquitectura de computadoras/banco_de_registros/banco}
