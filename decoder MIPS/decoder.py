@@ -25,7 +25,7 @@ def translate(instr: str):
     out += bin(rs)[2:].zfill(5) #src 1
     out += bin(rt)[2:].zfill(5) #src 2
     out += bin(rd)[2:].zfill(5) #dst
-    out += "00000" 
-    out += bin(funct)[2:] 
+    out += "00000" #shamt
+    out += bin(funct)[2:] #funct
 
     return out
