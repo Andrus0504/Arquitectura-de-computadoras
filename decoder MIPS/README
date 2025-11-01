@@ -1,0 +1,11 @@
+Instrucciones de uso
+
+Para utilizar este codigo es necesario iniciarlo desde main.py
+
+Al iniciarce el codigo se abrira una ventana en la cual se mostrara un boton que dira "Select file"
+
+Al oprimir el boton "Select file" se mostrara un menu el cual mostrara los archivos que se pueden selecionar
+
+selecciona el archivo que desees traducir y oprime el boton Translate
+
+Al oprimir el boton translate se abrira otro menu en el cual tendras que ingresar el nombre del nuevo archivo traducido
